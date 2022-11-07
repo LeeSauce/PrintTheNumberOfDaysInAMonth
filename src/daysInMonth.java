@@ -1,12 +1,5 @@
 public class daysInMonth
 {
-    // main method
-    public static void main (String[]args)
-    {
-        isLeapYear(2000);
-        getDaysInMonth(2,2020);
-
-    }
 
     // method that calculates whether the year is a leap year
     // has 1 parameter, int year
